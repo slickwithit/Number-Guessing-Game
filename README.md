@@ -22,7 +22,9 @@ Welcome to the **Number Guessing Game**! This is a fun and interactive Python pr
    git clone https://github.com/slickwithit/Number-Guessing-Game.git
 
 2. Navigate to the project directory:
+   ```bash
     cd Number-Guessing-Game  
 
-3. Run the program:
+4. Run the program:
+      ```bash
     python number_guessing_game.py
