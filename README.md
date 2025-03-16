@@ -28,3 +28,22 @@ Welcome to the **Number Guessing Game**! This is a fun and interactive Python pr
 4. Run the program:
       ```bash
     python number_guessing_game.py
+
+## **Technologies Used**
+Programming Language: Python
+Libraries: random
+
+
+## **Future Enhancements**
+Add a graphical user interface (GUI) using tkinter or pygame.
+Track the number of attempts and display a score.
+Add a multiplayer mode where two players can compete.
+
+
+## **Contributing**
+Feel free to contribute to this project! If you have any suggestions or improvements, open an issue or submit a pull request.
+
+## **License**
+This project is open-source and available under the MIT License.
+
+Enjoy playing the Number Guessing Game! 🎮
